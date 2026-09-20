@@ -145,7 +145,17 @@ This project helped strengthen my practical skills in:
 A key learning was that effective dashboards depend not only on visual design, but also on reliable data, relationships and calculations.
 
 ---
+---
 
+## 📸 Dashboard Preview
+
+### Dashboard 1 — Business Performance
+
+![Business Performance Dashboard](Screenshots/Dashboard_1_Business_Performance.jpg)
+
+### Dashboard 2 — Customer & Product Analytics
+
+![Customer & Product Analytics Dashboard](Screenshots/Dashboard_2_Customer_Product_Analytics.jpg)
 ## 📁 Project Structure
 
 ```text
