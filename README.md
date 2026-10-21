@@ -212,6 +212,13 @@ This project uses the **AdventureWorks** dataset for educational and portfolio p
 The raw dataset is not included in this repository.
 
 ---
+## Learning Outcomes
+
+This project provided practical experience in Power Query for data cleaning and transformation, data modelling, and creating DAX measures to calculate key KPIs such as revenue, profit, and return rate.
+
+This project also strengthened my skills in developing interactive Power BI dashboards, analysing business performance, identifying trends, and communicating insights through clear visualisations.
+
+---
 
 ## 👤 Author
 
